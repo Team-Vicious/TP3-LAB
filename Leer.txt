@@ -1,0 +1,7 @@
+---Los datos se muestran en el html, pero se ven mas ordenados por la consola del navegador---
+
+Integrantes:
+ Luciano Grilli
+ Joaquin Roza
+ Sebastian Mauriz
+ Mauro Candia
